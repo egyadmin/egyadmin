@@ -1,25 +1,25 @@
 <div align="center">
 
-# Hi, I'm Tamer El Gohary 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Tamer%20El%20Gohary&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Head%20of%20IT%20%26%20AI%20DevOps%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descColor=8b949e" />
 
-### Head of IT & AI DevOps Engineer | Full-Stack Developer | AI Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamer-el-gohary-3a516570/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamer%20El%20Gohary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamer-el-gohary-3a516570/)
 [![GitHub followers](https://img.shields.io/github/followers/egyadmin?label=Follow&style=for-the-badge&color=181717&logo=github)](https://github.com/egyadmin)
 [![Profile Views](https://komarev.com/ghpvc/?username=egyadmin&color=brightgreen&style=for-the-badge)](https://github.com/egyadmin)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamer@sajco.com.sa)
 
 </div>
 
 ---
 
-## 🧑‍💼 About Me
+## 💡 About Me
 
-- 🏢 **Head of IT & AI DevOps Engineer** at [Shibh Al-Jazira Contracting Co. (SAJCO)](https://www.sajco.com.sa) — Business Development & IT Division
-- 🤖 Building AI-powered enterprise systems for the construction industry
-- 🌱 Currently working on **LLM integration**, **Oracle Fusion**, and **Cloud-Native** architectures
-- 📍 Based in **Riyadh, Saudi Arabia** (Business Development & IT HQ)
+- 🏢 **Head of IT & AI DevOps Engineer** at [Shibh Al-Jazira Contracting Co. (SAJCO)](https://www.sajco.com.sa) — Business Development & IT Division HQ, Riyadh
+- 🤖 Building **AI-powered enterprise systems** for the construction & contracting industry
+- 🚀 Currently working on **LLM integration**, **Oracle Fusion**, and **Cloud-Native** architectures
+- 📍 Based in **Riyadh, Saudi Arabia** (Business Development & IT Main Office)
 - 💡 Passionate about automating business processes and bridging AI with enterprise solutions
-- 💼 **17+ years** of experience in IT infrastructure, networking & software development
+- 🎓 **17+ years** of experience in IT infrastructure, networking & full-stack software development
+- 🌐 Fluent in Arabic & English — Building bilingual enterprise platforms
 
 ---
 
@@ -30,53 +30,21 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-
----
-
-## 🏗️ GitHub Projects
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| 🤖 [SAJCO-AI](https://github.com/egyadmin/SAJCO-AI) | AI-powered violations detection & management for construction | Python, ML | [Repo](https://github.com/egyadmin/SAJCO-AI) |
-| 📊 [QHSE-Violation-Management](https://github.com/egyadmin/QHSE-Violation-Management-System) | Quality, Health, Safety & Environment management system | Flutter, Dart | [Repo](https://github.com/egyadmin/QHSE-Violation-Management-System) |
-| ⛽ [fule-ios](https://github.com/egyadmin/fule-ios) | Fuel management system with QR scanning & offline support | Flutter, Dart | [Repo](https://github.com/egyadmin/fule-ios) |
-| 💬 [WAHBi-AI-V2](https://github.com/egyadmin/WAHBi-AI-V2) | AI-powered health & safety platform (V2) | Python | [Repo](https://github.com/egyadmin/WAHBi-AI-V2) |
-| ⚖️ [SAJCO-QAID-LEGAL](https://github.com/egyadmin/SAJCO-QAID-LEGAL) | Legal Q&A AI system for enterprise | TypeScript | [Repo](https://github.com/egyadmin/SAJCO-QAID-LEGAL) |
-| 🤖 [sukarak_mazbot](https://github.com/egyadmin/sukarak_mazbot) | Smart bot for automated business workflows | JavaScript | [Repo](https://github.com/egyadmin/sukarak_mazbot) |
-| 📞 [phone_system](https://github.com/egyadmin/phone_system) | SAJCO enterprise phone directory system | Python | [Repo](https://github.com/egyadmin/phone_system) |
-| 💰 [finial-system](https://github.com/egyadmin/finial-system) | Financial management system | Python | [Repo](https://github.com/egyadmin/finial-system) |
-| 📊 [SA](https://github.com/egyadmin/SA) | Data analysis & reporting platform | Python | [Repo](https://github.com/egyadmin/SA) |
-
----
-
-## ⚡ Replit Live Apps
-
-| App | Description | Status | Link |
-|-----|-------------|--------|------|
-| 🥃 [Sukarak Mazbot](https://sukarak-mazbot.replit.app) | Smart ordering & marketplace management system with PostgreSQL | 🟢 Live | [Open](https://sukarak-mazbot.replit.app) |
-| 📱 [App Store Ascend](https://replit.com/@tamerlove2004/App-Store-Ascend) | App Store optimization & management platform | 🟡 Dev | [Open](https://replit.com/@tamerlove2004/App-Store-Ascend) |
-| 🍽️ [Restaurant Management](https://replit.com/@tamerlove2004/drh-lmTaam) | Full-featured restaurant operations management system | 🟡 Dev | [Open](https://replit.com/@tamerlove2004/drh-lmTaam) |
-| 💹 [Saudi Investment Platform](https://replit.com/@tamerlove2004/mnS-lstthmr-lsaawdy) | Investment portfolio & financial management platform | 🟢 Public | [Open](https://replit.com/@tamerlove2004/mnS-lstthmr-lsaawdy) |
-| 🚗 [Smart Driver](https://replit.com/@tamerlove2004/lsyq-ldhky) | AI-powered driver management & tracking system | 🟡 Dev | [Open](https://replit.com/@tamerlove2004/lsyq-ldhky) |
-| 🌴 [Tamr - Date Management](https://replit.com/@tamerlove2004/tmwr) | Agricultural product (dates) sales & inventory system | 🟡 Dev | [Open](https://replit.com/@tamerlove2004/tmwr) |
-| 📅 [Attendance System](https://replit.com/@tamerlove2004/Attendance) | Employee attendance tracking & reporting | 🟢 Public | [Open](https://replit.com/@tamerlove2004/Attendance) |
-| 📊 [Irshad](https://replit.com/@tamerlove2004/Irshad) | Enterprise guidance & workflow management platform | 🟢 Live | [Open](https://replit.com/@tamerlove2004/Irshad) |
-| 💳 [DebtTrack Master](https://replit.com/@tamerlove2004/DebtTrackMaster) | Debt tracking & financial records management | 🟢 Live | [Open](https://replit.com/@tamerlove2004/DebtTrackMaster) |
-| 📞 [SAJCO Phone Directory](https://sajco-phone-directory.replit.app) | Corporate phone directory for SAJCO employees | 🟢 Live | [Open](https://sajco-phone-directory.replit.app) |
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -84,40 +52,94 @@
 
 <div align="center">
 
-<a href="https://github.com/egyadmin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egyadmin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egyadmin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=egyadmin&theme=tokyonight&hide_border=true)](https://github.com/egyadmin)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=egyadmin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egyadmin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🏗️ GitHub Repositories
 
-```python
-current_focus = {
-    "role"    : "Head of IT & AI DevOps Engineer @ SAJCO",
-    "location": "Riyadh, Saudi Arabia — Business Dev & IT HQ",
-    "building": [
-        "AI-powered ERP & enterprise systems",
-        "LLM-based Q&A & legal platforms",
-        "QHSE mobile apps (Flutter)",
-        "Smart business automation tools (Replit)"
-    ],
-    "learning": ["Advanced LLM Agents", "Oracle Fusion Cloud", "iOS/Mac Development"],
-    "stack"   : ["Python", "Flutter", "React", "Node.js", "Oracle APEX", "Docker", "GCP"]
-}
+| Project | Description | Status | Tech |
+|---------|-------------|--------|------|
+| [egyadmin](https://github.com/egyadmin/egyadmin) | 🧑‍💻 GitHub Profile README | ✅ Live | Markdown |
+| [WojhatFinancePal](https://github.com/egyadmin/WojhatFinancePal) | 💰 AI-powered financial management & analytics platform | 🔧 Development | React, Node.js, AI |
+| [Yaqoobson-Store](https://github.com/egyadmin/Yaqoobson-Store) | 🛍️ E-commerce platform for Yaqoob & Sons | 🔧 Development | PHP, MySQL |
+| [SAJCO-Apps](https://github.com/egyadmin/SAJCO-Apps) | 🏢 Enterprise applications suite for SAJCO | 🔧 Development | React, Oracle |
+| [bulk-email-manager](https://github.com/egyadmin/bulk-email-manager) | 📧 Bulk email management & campaign automation | 🔧 Development | Node.js, Python |
+| [oracle-apex-tools](https://github.com/egyadmin/oracle-apex-tools) | 🛠️ Oracle APEX utilities and extensions | 🔧 Development | PL/SQL, APEX |
+| [flutter-enterprise](https://github.com/egyadmin/flutter-enterprise) | 📱 Flutter enterprise mobile app framework | 🔧 Development | Flutter, Dart |
+| [docker-compose-stack](https://github.com/egyadmin/docker-compose-stack) | 🐳 Production-ready Docker stacks for enterprise apps | 🔧 Development | Docker, YAML |
+| [ai-data-extractor](https://github.com/egyadmin/ai-data-extractor) | 🤖 AI-powered document & data extraction system | 🔧 Development | Python, LLM |
+
+---
+
+## 🌐 Live Deployed Applications
+
+### 🏢 SAJCO Enterprise Platform (Team Projects)
+
+| App | Description | Domain | Status |
+|-----|-------------|--------|--------|
+| 🔴 **Shams Violations Management System** | Enterprise violations tracking & QHSE compliance for SAJCO | [nsajco.com](https://nsajco.com) | ✅ **LIVE** |
+| 📚 **LCMS-SAJCO** | Learning & Content Management System for SAJCO employees | [lcms-sajco.com](https://lcms-sajco.com) | ✅ **LIVE** |
+| 📞 **SAJCO Phone Directory** | Internal staff directory & contact management system | [sajco-grc.com](https://sajco-grc.com) / [sajco-directory.replit.app](https://sajco-directory.replit.app) | ✅ **LIVE** |
+| 🔒 **Qhec Violation Management System** | QHSE violation tracking & management platform | [qhec.replit.app](https://qhec.replit.app) | ✅ **LIVE** |
+| 🛡️ **Saudi Security Showcase** | Security protocols & compliance showcase platform | [sajco-security-showcase.replit.app](https://sajco-security-showcase.replit.app) | ✅ **LIVE** |
+| 💎 **VIP Member Platform** | VIP membership management & privileges system | [vvipishqmember.com](https://vvipishqmember.com) | ✅ **LIVE** |
+| 💰 **DebtTrackMaster** | Enterprise debt tracking & financial reconciliation | [SAJCO.replit.app](https://SAJCO.replit.app) | ✅ **LIVE** |
+| 👥 **Employee Attendance System** | Smart attendance tracking & HR management | [attendance-tamerlove2004.replit.app](https://attendance-tamerlove2004.replit.app) | ✅ **LIVE** |
+| 🤖 **AI Reconciliation** | AI-powered financial reconciliation & analysis | Under Development | 🔧 Dev |
+| ⛽ **Fuel Management System** | Fleet & fuel consumption tracking for SAJCO | Under Development | 🔧 Dev |
+| 🏗️ **Facility Strategizer** | Strategic facility planning & management tool | Under Development | 🔧 Dev |
+| 🎯 **Visionary Plan** | Business planning & strategic vision platform | Under Development | 🔧 Dev |
+| 🔐 **SajcoSecurity** | Internal security management platform | Under Development | 🔧 Dev |
+| 📊 **FilesAnalysisTool** | Document & file analysis automation tool | Under Development | 🔧 Dev |
+| 📱 **ArabicFlutter** | Arabic-first Flutter mobile app framework | Under Development | 🔧 Dev |
+| 🎬 **VideoGenNodes** | AI video generation & node-based editing system | Under Development | 🔧 Dev |
+| 🗺️ **Local Content Display (عرض المحتوي المحلي)** | Saudi local content compliance & visualization | Under Development | 🔧 Dev |
+| 📋 **Local Content System (المحتوي المحلي نظام)** | Automated local content management system | Under Development | 🔧 Dev |
+| 🔍 **AfhasAlmurfaq** | Advanced inspection & compliance audit tool | Under Development | 🔧 Dev |
+| 🖼️ **Image Automation** | Automated image processing & AI tagging system | Under Development | 🔧 Dev |
+
+### 🧑‍💻 Personal Projects
+
+| App | Description | Domain | Status |
+|-----|-------------|--------|--------|
+| 🤖 **Sukarak Mazbot** | AI-powered chatbot & intelligent assistant platform | [sukarak-mazbot.replit.app](https://sukarak-mazbot.replit.app) | ✅ **LIVE** |
+| 🛍️ **Irshad - Yaqoob & Sons Store** | Full-featured Arabic e-commerce platform (31 products, cart, checkout) | [yaqoobson.com](https://yaqoobson.com) / [irshad-tamerlove2004.replit.app](https://irshad-tamerlove2004.replit.app) | ✅ **LIVE** |
+| 📈 **منصة الاستثمار السعودي** | Saudi investment opportunities & analytics platform | Under Review | 🔧 Dev |
+
+---
+
+## 🎯 Currently Working On
+
+```text
+🔭  Building AI-powered enterprise solutions for SAJCO
+🌱  Mastering LLM integration with Oracle Fusion systems
+🤝  Open to enterprise tech collaborations & consulting
+💬  Ask me about Oracle, Flutter, React, Docker, AI/ML
+📫  Reach me at: linkedin.com/in/tamer-el-gohary-3a516570
 ```
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=egyadmin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
 
 ---
 
 <div align="center">
 
-**💬 Open to collaborations on AI, enterprise systems, and mobile development**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" />
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tamer-el-gohary-3a516570/)
+**⭐ If you find my work interesting, consider giving a star to any of my repositories!**
+
+*Building the future of enterprise technology, one line of code at a time.*
 
 </div>
