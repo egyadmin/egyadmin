@@ -13,11 +13,11 @@
 
 ## 🧑‍💼 About Me
 
-- 🏢 **Head of IT & AI DevOps Engineer** at [Shibh Al-Jazira Contracting Co. (SAJCO)](https://www.sajco.com.sa)
-- 🤖 Building AI-powered enterprise systems for the construction industry
+- 🏢 **Head of IT & AI DevOps Engineer** at [Shibh Al-Jazira Contracting Co. (SAJCO)](https://www.sajco.com.sa) — Business Development & IT Division
+- - 🤖 Building AI-powered enterprise systems for the construction industry
 - 🌱 Currently working on **LLM integration**, **Oracle Fusion**, and **Cloud-Native** architectures
-- 📍 Based in **Tabuk, Saudi Arabia**
-- 💡 Passionate about automating business processes and bridging AI with enterprise solutions
+- 📍 Based in **Riyadh, Saudi Arabia** (Business Development & IT HQ)-
+-  💡 Passionate about automating business processes and bridging AI with enterprise solutions
 
 ---
 
