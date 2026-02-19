@@ -85,8 +85,8 @@
 <div align="center">
 
 <a href="https://github.com/egyadmin">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=egyadmin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egyadmin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egyadmin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egyadmin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=egyadmin&theme=tokyonight&hide_border=true)](https://github.com/egyadmin)
